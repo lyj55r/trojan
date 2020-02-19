@@ -155,7 +155,7 @@ EOF
 mkdir /usr/share/nginx/html
 rm -rf /usr/share/nginx/html/*
 cd /usr/share/nginx/html/
-wget https://github.com/atrandys/v2ray-ws-tls/raw/master/web.zip
+wget https://github.com/lyj55r/v2ray-ws-tls/raw/master/web1.zip
 unzip web.zip
 systemctl start nginx
 
